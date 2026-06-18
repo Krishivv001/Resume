@@ -23,5 +23,5 @@ Since this is a static website, running it locally is extremely simple:
 
 ## 📫 Get In Touch
 * **Location:** Delhi, India
-* **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/krishiv-aggarwal-b46620384/?skipRedirect=true)]
+* **LinkedIn:** [Krishiv Aggarwal](https://www.linkedin.com/in/krishiv-aggarwal-b46620384/?skipRedirect=true)]
 * **Email:** [aggarwalkrishiv707@gmail.com]
